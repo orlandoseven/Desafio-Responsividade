@@ -1,4 +1,4 @@
-<img src="./img/paginaDiscord.png"/>
+<img src="./assets/img/paginaDiscord.png"/>
 <h1 align="center"> Desafio Responsividade - DIO </h1>
 <h2>Descrição:<h2>
 <p>Desenvolver uma pagina estática do site Discord a partir
