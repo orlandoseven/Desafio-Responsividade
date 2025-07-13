@@ -1,4 +1,4 @@
-<img src="./assets/img/paginaDiscord.png"/>
+<img src="./assets/img/cloneDiscord.png"/>
 
 # Clone página Discord
 Desafio de responsividade da formação CSS da DIO.
